@@ -32,4 +32,4 @@
 * **git add .** will add all the files to be commited
 * **git commit -m "message"** will commit your current changes on your local repository
 
-* useful like [Github for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) *
+* useful like [Github for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
