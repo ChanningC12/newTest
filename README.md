@@ -23,12 +23,12 @@
 
 * master branch is the primary branch, each individual might have their own branch, typically individual works on their own branch and push to Github under individual branch. Pull request is used to merge to the master branch, reviewer needs to approve the request
 
-* ** git checkout -b [name of the branch] ** to create a new branch
-* ** git checkout [name of the branch] ** to switch to the branch you want
-* ** git push origin [name of the branch] ** to push the branch to Github
-* ** git merge [name of the branch you want merge from] ** to merge the updated version, and the one you've updated will not be affected
+* **git checkout -b [name of the branch]** to create a new branch
+* **git checkout [name of the branch]** to switch to the branch you want
+* **git push origin [name of the branch]** to push the branch to Github
+* **git merge [name of the branch you want merge from]** to merge the updated version, and the one you've updated will not be affected
 
-* ** git add . ** will add all the files to be commited
-* ** git commit -m "message" will commit your current changes on your local repository
+* **git add .** will add all the files to be commited
+* **git commit -m "message"** will commit your current changes on your local repository
 
 * useful like <http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/> *
